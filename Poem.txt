@@ -8,3 +8,4 @@ yellow
 orange
 red
 hey hiiiiiiiiiiiii
+above are rainbow colours
