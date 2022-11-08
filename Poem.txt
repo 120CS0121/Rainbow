@@ -1,4 +1,5 @@
 Hi, hellow, Namaste
+Unicorn is here
 
 violet
 indigo
@@ -7,3 +8,4 @@ green
 yellow
 orange
 red
+unicorn
